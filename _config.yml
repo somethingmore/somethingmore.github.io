@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Seaweed Dev Blog
 description: A developer blog like seaweed, it grows and grows.maybe.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://github.com/somethingmore" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://somethingmore.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 permalink: pretty
